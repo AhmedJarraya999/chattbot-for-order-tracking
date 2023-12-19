@@ -6,7 +6,7 @@ chatbot using diagflow framework that provide these two features:
 Architeture for the solution
 
 
-Diagflow for NLP +  FAST API for Backend Server + MySQL Database
+Dialogflow for NLP +  FAST API for Backend Server + MySQL Database
 
 
 
